@@ -1,0 +1,25 @@
+
+/* <LINK HREF="css/todo css.CSS" REL="STYLESHEET" TYPE="text/css"/> */
+					/* BODY */
+*{
+box-sizing:border-box;
+	padding:0px;	
+	margin:0px;	
+}
+.body{	
+	width:100%;
+	height:auto;
+	margin:0px 0px 0px 0px;
+	
+	display:inline-block;
+	position:relative;	
+	
+background-color:#ff5733;
+background-size:100% 100%;
+background-repeat:no-repeat;
+background-attachment:fixed;
+background-position:0px 100px;
+z-index:1;
+/* border:solid blue; */
+}
+					/* fin */

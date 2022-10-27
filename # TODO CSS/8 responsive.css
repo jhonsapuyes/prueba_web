@@ -1,0 +1,16 @@
+@media screen and (max-width: 600px){
+/* body */
+/* cabecera */
+/* logo */
+/* menu */
+li a{
+    font-size: 10px;
+}
+/* section */
+/* article */
+p{
+    font-size: 15px;
+}
+/* aside */
+/* footer */
+}

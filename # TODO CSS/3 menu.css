@@ -1,0 +1,41 @@
+
+/* <LINK HREF="css/todo css.CSS" REL="STYLESHEET" TYPE="text/css"/> */
+
+/* INICIO DISEÑO MENU */
+		/*INICIO MENU */
+		
+ul{
+  list-style-type: none;
+  margin: 0;
+  padding: 0; 
+  background-color:black;
+  overflow: hidden;
+  width:80%;
+  
+position:relative;
+top:24px;
+}
+
+.nav > li {
+  float: left;
+  width:25%;
+ border:solid 1px #ffca33;
+}
+
+li a {
+  display: inline-block;
+  color: white;
+  text-align: center;
+  padding: 14px 0px;
+  text-decoration: none;
+  width:100%;
+  
+}
+
+li a:hover{
+  background-color: red;
+}
+		/*FINAL MENU */
+
+/* FINAL DISEÑO MENU */
+
